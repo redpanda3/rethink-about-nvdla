@@ -11,5 +11,15 @@ I tried to expand NVDLA to common algorithms in self-driving car applications in
 
 ## What's Next
 
-Will it be possible for NVDLA to switch to a software-friendly, low-end-process-friendly, scalability-enabled IP?
-I'm glad to hear your opinion.
+Will it be possible for NVDLA to switch to a software-friendly, low-end-process-friendly, scalability-enabled IP? 
+
+Software-friendly enough, so it can run mainstream framework.
+
+Small enough, so it can be easily integrated into an M2 type of FPGA or into the efabless/openihp shuttle.
+
+The final one is scalability-enabled, I don't know how to achieve that without an NOC-based design, welcome to discuss.
+
+
+## Finally
+
+I'm glad to hear your opinion, submit an issue so that I can merge your thoughts. 
